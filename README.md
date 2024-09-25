@@ -32,15 +32,15 @@
 
 ###
 
+<img align="right" height="200" src="https://cw1.tw/CW/images/article/201801/article-ck-5a4f5f0a24f54.PNG"  />
+
+###
+
 <p align="left">Peer learning was designed to reflect the real-world challenges faced by ICT professionals. The idea was to simulate real projects with unique, unpredictable demands, requiring students to solve software problems without any prior instruction. This evolved into a project-driven curriculum, where students take the lead in navigating complex challenges.<br><br>It soon became clear that the skill of seeking out new knowledge and applying it to unfamiliar situations wasn't just valuable to companies—it was a game changer for the students themselves, empowering them with the confidence to tackle anything that comes their way.</p>
 
 ###
 
 <h2 align="left">Critical Thinking Imperitive 🧠💡</h2>
-
-###
-
-<img align="right" height="200" src="https://cw1.tw/CW/images/article/201801/article-ck-5a4f5f0a24f54.PNG"  />
 
 ###
 
@@ -68,7 +68,7 @@
 
 ###
 
-<img align="right" height="200" src="https://42lausanne.ch/wp-content/uploads/2021/02/Holy-Graph.png"  />
+<img align="right" height="400" src="https://42lausanne.ch/wp-content/uploads/2021/02/Holy-Graph.png"  />
 
 ###
 
@@ -85,5 +85,35 @@
 ###
 
 <p align="left">The RNCP 7 certificate, delivered by 42 Paris and recognized by the French Ministry of Labour, is equivalent to a Master’s degree, representing five years of higher education. Available at select 42 campuses, this certification requires students to complete specific curriculum requirements. To earn the certificate, students must complete the common core, validate two post-core group projects, reach level 21, attend 15 pedagogical events, and complete two full-time professional experiences.<br><br>There are two specialization tracks: Network Information Systems Architecture and Database Architecture & Data, each with distinct project requirements. The RNCP 7 is awarded based on voluntary participation and is independent of the final 42 certification. This certification equips students for targeted roles in the labour market, with clear constraints and learning pathways for each specialization.</p>
+
+###
+
+<h2 align="left">Software Stacks</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gcc/gcc-original.svg" height="40" alt="gcc logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="40" alt="cmake logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="40" alt="xcode logo"  />
+</div>
 
 ###
