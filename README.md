@@ -44,7 +44,7 @@
 
 ###
 
-<img align="left" height="250" src="https://42istanbul.com.tr/wp-content/uploads/2022/04/istanbul42-05.png"  />
+<img align="left" height="250" src="https://42istanbul.com.tr/wp-content/uploads/2022/04/istanbul42-08.jpg"  />
 
 ###
 
@@ -53,6 +53,10 @@
 ###
 
 <h2 align="left">Empowering Independence 🧘‍♂️</h2>
+
+###
+
+<img align="right" height="250" src="https://42istanbul.com.tr/wp-content/uploads/2022/04/istanbul42-05.png"  />
 
 ###
 
