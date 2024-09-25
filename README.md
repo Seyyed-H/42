@@ -1,8 +1,10 @@
-<img align="left" height="200" src="https://assets.nationbuilder.com/davidpisoni/pages/1491/meta_images/original/42_Logo.svg.png?1617670806"  />
+<h1 align="center">42 - Common Core</h1>
 
 ###
 
-<h1 align="center">42 - Common Core</h1>
+<div align="center">
+  <img height="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXfAZMOWHDQ3DKE63A9jWhIqQaKcKqUIXvzg&s"  />
+</div>
 
 ###
 
@@ -26,10 +28,6 @@
 
 ###
 
-<img align="right" height="200" src="https://cw1.tw/CW/images/article/201801/article-ck-5a4f5f0a24f54.PNG"  />
-
-###
-
 <h2 align="left">The Philosophical Foundation of Peer Learning 🌏</h2>
 
 ###
@@ -39,6 +37,10 @@
 ###
 
 <h2 align="left">Critical Thinking Imperitive 🧠💡</h2>
+
+###
+
+<img align="right" height="200" src="https://cw1.tw/CW/images/article/201801/article-ck-5a4f5f0a24f54.PNG"  />
 
 ###
 
@@ -54,10 +56,6 @@
 
 ###
 
-<img align="right" height="200" src="https://42lausanne.ch/wp-content/uploads/2021/02/Holy-Graph.png"  />
-
-###
-
 <h2 align="left">A Social Constructivist Approach 🤝</h2>
 
 ###
@@ -67,6 +65,10 @@
 ###
 
 <h2 align="left">Certification 🎓</h2>
+
+###
+
+<img align="right" height="200" src="https://42lausanne.ch/wp-content/uploads/2021/02/Holy-Graph.png"  />
 
 ###
 
