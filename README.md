@@ -44,7 +44,7 @@
 
 ###
 
-<img align="left" height="250" src="https://42istanbul.com.tr/wp-content/uploads/2022/04/istanbul42-08.jpg"  />
+<img align="left" height="270" src="https://42istanbul.com.tr/wp-content/uploads/2022/04/istanbul42-08.jpg"  />
 
 ###
 
@@ -56,7 +56,7 @@
 
 ###
 
-<img align="right" height="250" src="https://42istanbul.com.tr/wp-content/uploads/2022/04/istanbul42-05.png"  />
+<img align="right" height="230" src="https://42istanbul.com.tr/wp-content/uploads/2022/04/istanbul42-05.png"  />
 
 ###
 
