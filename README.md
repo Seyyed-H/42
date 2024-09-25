@@ -44,6 +44,10 @@
 
 ###
 
+<img align="left" height="250" src="https://42istanbul.com.tr/wp-content/uploads/2022/04/istanbul42-05.png"  />
+
+###
+
 <p align="left">Even experts and educators, despite their deep knowledge, can't know everything in their fields. While they can provide valuable guidance, depending solely on their perspective doesn't build the critical skills needed to navigate the overwhelming amount of information out there. It's crucial to develop the ability to independently filter and apply knowledge to truly thrive in today's world.</p>
 
 ###
@@ -68,10 +72,6 @@
 
 ###
 
-<img align="right" height="400" src="https://42lausanne.ch/wp-content/uploads/2021/02/Holy-Graph.png"  />
-
-###
-
 <h3 align="left">RNCP6</h3>
 
 ###
@@ -85,6 +85,12 @@
 ###
 
 <p align="left">The RNCP 7 certificate, delivered by 42 Paris and recognized by the French Ministry of Labour, is equivalent to a Master’s degree, representing five years of higher education. Available at select 42 campuses, this certification requires students to complete specific curriculum requirements. To earn the certificate, students must complete the common core, validate two post-core group projects, reach level 21, attend 15 pedagogical events, and complete two full-time professional experiences.<br><br>There are two specialization tracks: Network Information Systems Architecture and Database Architecture & Data, each with distinct project requirements. The RNCP 7 is awarded based on voluntary participation and is independent of the final 42 certification. This certification equips students for targeted roles in the labour market, with clear constraints and learning pathways for each specialization.</p>
+
+###
+
+<div align="center">
+  <img height="400" src="https://42lausanne.ch/wp-content/uploads/2021/02/Holy-Graph.png"  />
+</div>
 
 ###
 
