@@ -1,3 +1,9 @@
+<br clear="both">
+
+<img align="left" height="200" src="https://assets.nationbuilder.com/davidpisoni/pages/1491/meta_images/original/42_Logo.svg.png?1617670806"  />
+
+###
+
 <h1 align="center">42 - Common Core</h1>
 
 ###
@@ -22,6 +28,12 @@
 
 ###
 
+<br clear="both">
+
+<img align="right" height="200" src="https://cw1.tw/CW/images/article/201801/article-ck-5a4f5f0a24f54.PNG"  />
+
+###
+
 <h2 align="left">The Philosophical Foundation of Peer Learning 🌏</h2>
 
 ###
@@ -43,6 +55,12 @@
 ###
 
 <p align="left">When it comes to problem-solving, do you want to be someone who can tackle new challenges and create innovative solutions, or just follow predefined instructions? Relying on outside guidance—whether from an expert, teacher, or manual—limits your independence.<br><br>That’s why Peer-Learning is deliberately structured without traditional instructors or set materials. If you aim to master learning and develop flexible problem-solving, collaboration, creativity, and critical thinking skills, it's essential to question and engage with every bit of information you come across.</p>
+
+###
+
+<br clear="both">
+
+<img align="right" height="200" src="https://42lausanne.ch/wp-content/uploads/2021/02/Holy-Graph.png"  />
 
 ###
 
