@@ -36,11 +36,11 @@
 
 ###
 
-<h3 align="left">Reward 🪙</h3>
+<h3 align="left">Reward 💎</h3>
 
 ###
 
-<h4 align="left">🏆Acheivment Unlock: 🗳️ ft_printf()</h4>
+<h4 align="left">🏆Acheivment Unlock: ft_printf() 🗳️</h4>
 
 ###
 
