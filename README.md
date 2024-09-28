@@ -104,7 +104,7 @@
 
 ###
 
-<h4 align="left">(12) ft_strlcat 🆎↔️🔤</h4>
+<h4 align="left">(12) ft_strlcat 🆎⇔🔤</h4>
 
 ###
 
@@ -210,7 +210,7 @@
 
 ###
 
-<h4 align="left">(25) ft_strjoin 🆎↔️🆎🢧🆕🔤</h4>
+<h4 align="left">(25) ft_strjoin 🆎⇔🆎🢧🆕🔤</h4>
 
 ###
 
