@@ -40,7 +40,7 @@
 
 ###
 
-<h4 align="left">🏆Acheivment Unlock: ft_printf() 🗳️</h4>
+<h4 align="left">🏆Acheivment Unlock: ft_printf()</h4>
 
 ###
 
