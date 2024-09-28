@@ -32,7 +32,7 @@
 
 ###
 
-<h4 align="left">Moderately difficult: ⭐⭐⭐✰ ✰</h3>
+<h3 align="left">Moderately difficult: ⭐⭐⭐✰ ✰</h3>
 
 ###
 
@@ -57,5 +57,11 @@
 ###
 
 <h1 align="left">Ready, Set, Go! 🏁</h1>
+
+###
+
+<div align="center">
+  <img height="300" src="https://c.tenor.com/kDsXIaIqAhcAAAAd/tenor.gif"  />
+</div>
 
 ###
