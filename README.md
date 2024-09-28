@@ -16,7 +16,7 @@
 
 ### Part 1 - Libc Functions
 
-<h4 align="left">(1) ft_isalpha</h4>
+<h4 align="left">(1) ft_isalpha ❔🔠</h4>
 
 ###
 
@@ -24,7 +24,7 @@
 
 ###
 
-<h4 align="left">(2) ft_isdigit</h4>
+<h4 align="left">(2) ft_isdigit ❔🔢</h4>
 
 ###
 
@@ -32,7 +32,7 @@
 
 ###
 
-<h4 align="left">(3) ft_isalnum</h4>
+<h4 align="left">(3) ft_isalnum 🔎🔤🔢</h4>
 
 ###
 
@@ -40,7 +40,7 @@
 
 ###
 
-<h4 align="left">(4) ft_isascii</h4>
+<h4 align="left">(4) ft_isascii ❔🆔</h4>
 
 ###
 
@@ -48,7 +48,7 @@
 
 ###
 
-<h4 align="left">(5) ft_isprint</h4>
+<h4 align="left">(5) ft_isprint ❔🖨️</h4>
 
 ###
 
@@ -56,7 +56,7 @@
 
 ###
 
-<h4 align="left">(6) ft_strlen</h4>
+<h4 align="left">(6) ft_strlen 🔤📏</h4>
 
 ###
 
@@ -64,7 +64,7 @@
 
 ###
 
-<h4 align="left">(7) ft_memset</h4>
+<h4 align="left">(7) ft_memset 💾🔧</h4>
 
 ###
 
@@ -72,7 +72,7 @@
 
 ###
 
-<h4 align="left">(8) ft_bzero</h4>
+<h4 align="left">(8) ft_bzero 💾➡0️⃣</h4>
 
 ###
 
@@ -80,7 +80,7 @@
 
 ###
 
-<h4 align="left">(9) ft_memcpy</h4>
+<h4 align="left">(9) ft_memcpy 💾➡️💾</h4>
 
 ###
 
@@ -88,7 +88,7 @@
 
 ###
 
-<h4 align="left">(10) ft_memmove</h4>
+<h4 align="left">(10) ft_memmove 💾➡🆕💾</h4>
 
 ###
 
@@ -96,7 +96,7 @@
 
 ###
 
-<h4 align="left">(11) ft_strlcpy</h4>
+<h4 align="left">(11) ft_strlcpy 🔤➡🔤</h4>
 
 ###
 
@@ -104,7 +104,7 @@
 
 ###
 
-<h4 align="left">(12) ft_strlcat</h4>
+<h4 align="left">(12) ft_strlcat 🔤➡🆎⬅🔤</h4>
 
 ###
 
@@ -112,7 +112,7 @@
 
 ###
 
-<h4 align="left">(13) ft_toupper</h4>
+<h4 align="left">(13) ft_toupper 🔡➡🔠</h4>
 
 ###
 
@@ -120,7 +120,7 @@
 
 ###
 
-<h4 align="left">(14) ft_tolower</h4>
+<h4 align="left">(14) ft_tolower 🔠➡🔡</h4>
 
 ###
 
@@ -128,7 +128,7 @@
 
 ###
 
-<h4 align="left">(15) ft_strchr</h4>
+<h4 align="left">(15) ft_strchr 🔡🔎➡🔤</h4>
 
 ###
 
@@ -136,7 +136,7 @@
 
 ###
 
-<h4 align="left">(16) ft_strrchr</h4>
+<h4 align="left">(16) ft_strrchr 🔤⬅🔍🔡</h4>
 
 ###
 
@@ -144,7 +144,7 @@
 
 ###
 
-<h4 align="left">(17) ft_strncmp</h4>
+<h4 align="left">(17) ft_strncmp 🔤🕵️🔤</h4>
 
 ###
 
@@ -152,7 +152,7 @@
 
 ###
 
-<h4 align="left">(18) ft_memchr</h4>
+<h4 align="left">(18) ft_memchr [⁰₁⁰₁]🔎➡💾</h4>
 
 ###
 
@@ -160,7 +160,7 @@
 
 ###
 
-<h4 align="left">(19) ft_memcmp</h4>
+<h4 align="left">(19) ft_memcmp 💾🕵️💾</h4>
 
 ###
 
@@ -168,7 +168,7 @@
 
 ###
 
-<h4 align="left">(20) ft_strnstr</h4>
+<h4 align="left">(20) ft_strnstr 🆎🕵️➡🔤</h4>
 
 ###
 
@@ -176,7 +176,7 @@
 
 ###
 
-<h4 align="left">(21) ft_atoi</h4>
+<h4 align="left">(21) ft_atoi 🔡➡🔢</h4>
 
 ###
 
@@ -184,7 +184,7 @@
 
 ###
 
-<h4 align="left">(22) ft_calloc</h4>
+<h4 align="left">(22) ft_calloc 🆕💾[⁰₀⁰₀]</h4>
 
 ###
 
@@ -192,7 +192,7 @@
 
 ###
 
-<h4 align="left">(23) ft_strdup</h4>
+<h4 align="left">(23) ft_strdup 🔤➡🆕🔤</h4>
 
 ###
 
