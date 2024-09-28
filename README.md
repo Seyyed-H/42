@@ -32,7 +32,7 @@
 
 ###
 
-<h3 align="left">Moderately difficult: ⭐⭐⭐✰ ✰</h3>
+<h4 align="left">Moderately difficult: ⭐⭐⭐✰ ✰</h3>
 
 ###
 
