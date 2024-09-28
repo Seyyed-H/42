@@ -72,7 +72,7 @@
 
 ###
 
-<h4 align="left">(8) ft_bzero 💾➡0️⃣</h4>
+<h4 align="left">(8) ft_bzero 💾🢧0️⃣</h4>
 
 ###
 
