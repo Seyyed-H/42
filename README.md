@@ -104,7 +104,7 @@
 
 ###
 
-<h4 align="left">(12) ft_strlcat 🔤➡🆎⬅🔤</h4>
+<h4 align="left">(12) ft_strlcat 🆎↔️🔤</h4>
 
 ###
 
@@ -202,7 +202,7 @@
 
 ### Part 2 - Additional Functions
 
-<h4 align="left">(24) ft_substr</h4>
+<h4 align="left">(24) ft_substr 🔤➡🆕🆎</h4>
 
 ###
 
@@ -210,7 +210,7 @@
 
 ###
 
-<h4 align="left">(25) ft_strjoin</h4>
+<h4 align="left">(25) ft_strjoin 🆎↔️🆎➡🆕🔤</h4>
 
 ###
 
@@ -218,7 +218,7 @@
 
 ###
 
-<h4 align="left">(26) ft_strtrim</h4>
+<h4 align="left">(26) ft_strtrim ✂️🔤✂️</h4>
 
 ###
 
@@ -226,7 +226,7 @@
 
 ###
 
-<h4 align="left">(27) ft_split</h4>
+<h4 align="left">(27) ft_split 🔤🪓</h4>
 
 ###
 
@@ -234,7 +234,7 @@
 
 ###
 
-<h4 align="left">(28) ft_itoa</h4>
+<h4 align="left">(28) ft_itoa 🔢➡🔡</h4>
 
 ###
 
