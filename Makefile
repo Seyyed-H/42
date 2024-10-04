@@ -1,30 +1,37 @@
-# Variables
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    Makefile                                           :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: amsoltan <amsoltan@student.42adel.org.a    +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2024/10/04 18:47:41 by amsoltan          #+#    #+#              #
+#    Updated: 2024/10/04 18:47:41 by amsoltan         ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+NAME = libftprintf.a
 CC = gcc
 CFLAGS = -Wall -Wextra -Werror
-SRC = search_format.c ft_printf.c main.c
-OBJ = $(SRC:.c=.o)
-NAME = libftprintf.a
-LIBFT = libft/libft.a
+PRINTF_SRCS = search_format.c ft_printf.c main.c
+LIBFT_SRCS = libft/ft_itoa.c libft/ft_itoa_base.c
+SRCS = $(PRINTF_SRCS) $(LIBFT_SRCS)
+OBJS = $(SRCS:.c=.o)
+INCLUDES = -I includes -I libft
 
-# Rules
 all: $(NAME)
 
-$(NAME): $(OBJ) $(LIBFT)
-	ar rcs $(NAME) $(OBJ) $(LIBFT)
+$(NAME): $(OBJS)
+	ar rcs $(NAME) $(OBJS)
 
-$(LIBFT):
-	make -C libft
-
-%.o: %.c ft_printf.h
-	$(CC) $(CFLAGS) -Ilibft -c $< -o $@
+%.o: %.c
+	$(CC) $(CFLAGS) $(INCLUDES) -c $< -o $@
 
 clean:
-	rm -f $(OBJ)
-	make -C libft clean
+	rm -f $(OBJS)
 
 fclean: clean
 	rm -f $(NAME)
-	make -C libft fclean
 
 re: fclean all
 
